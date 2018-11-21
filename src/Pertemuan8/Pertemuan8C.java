@@ -24,7 +24,7 @@ public class Pertemuan8C {
         y1 = s.nextDouble();
         System.out.print("Masukkan y2 : ");
         y2 = s.nextDouble();
-        System.out.println(y1 + " + " + y2 + " = " + p.jumlah(x1, y2));
+        System.out.println(y1 + " + " + y2 + " = " + p.jumlah(y1, y2));
     }
     
 }
